@@ -14,8 +14,8 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "amsterdan\\": "src/lock",
-            "amsterdan\\method\\": "src/lock/method"
+            "lock\\": "src/lock",
+            "lock\\method\\": "src/lock/method"
         }
     }
 }
